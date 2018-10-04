@@ -77,7 +77,7 @@ import com.etc;
  * @since YYYY.MM.DD (date of class creation)
  */
 
-public class Example{
+public class Example {
 
   /** <p>Example line
    * on the same line before a line break. <br>
@@ -90,7 +90,7 @@ public class Example{
    * @see ClassName
    */
   @Override
-  public static void methodOne(String nameOfParam) {
+  public static OtherClass methodOne(String nameOfParam) {
       // Do something
       return new OtherClass(...);
   }
